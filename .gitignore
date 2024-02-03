@@ -34,8 +34,9 @@ lerna-debug.log*
 !.vscode/launch.json
 !.vscode/extensions.json
 
-env
-README
+.env
+
+README.md
 
 # Docker
 data
